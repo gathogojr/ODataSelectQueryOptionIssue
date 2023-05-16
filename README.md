@@ -1,0 +1,1 @@
+Repro for reported customer issue where translation at the data layer causes /EntitySet?$select=ListOfStringProperty not to work but works /EntitySet works as expected
